@@ -12,10 +12,12 @@
   <groupId>org.tahopen</groupId>
   <artifactId>tdi-dataservice-server-plugin-parent</artifactId>
   <packaging>pom</packaging>
+  <version>0.1.0.0</version>
+
 
   <name>Tahopen Community Edition Project: ${project.artifactId}</name>
-  <description>A server for PDI Data Services - Parent Module</description>
-  <url>http://www.pentaho.com</url>
+  <description>A server for TDI Data Services - Parent Module</description>
+  <url>https://www.tahopen.org</url>
 
   <modules>
     <module>impl</module>
