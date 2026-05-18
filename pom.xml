@@ -161,7 +161,7 @@
       </dependency>
       <dependency>
         <groupId>org.tahopen</groupId>
-        <artifactId>pentaho-metaverse-api</artifactId>
+        <artifactId>tahopen-metaverse-api</artifactId>
         <version>${pdi.version}</version>
         <scope>provided</scope>
       </dependency>
@@ -172,7 +172,7 @@
       </dependency>
       <dependency>
         <groupId>org.tahopen.di.plugins</groupId>
-        <artifactId>pentaho-metastore-locator-api</artifactId>
+        <artifactId>tahopen-metastore-locator-api</artifactId>
         <version>${pdi.version}</version>
       </dependency>
       <dependency>

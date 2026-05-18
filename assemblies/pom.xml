@@ -13,7 +13,7 @@
   <packaging>pom</packaging>
 
   <name>Tahopen Community Edition Project: ${project.artifactId}</name>
-  <description>Assemblies for PDI Data Services server</description>
+  <description>Assemblies for TDI Data Services server</description>
   <url>https://www.tahopen.org</url>
 
   <modules>
